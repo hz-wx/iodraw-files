@@ -80,10 +80,10 @@
           <mxGeometry x="385" y="306" width="92" height="121" as="geometry" />
         </mxCell>
         <mxCell id="MkgtVJJ61DVTMC1bxCBC-24" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;BU X&lt;div&gt;BUS 1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="572" y="306" width="191" height="102" as="geometry" />
+          <mxGeometry x="572" y="306" width="191" height="126" as="geometry" />
         </mxCell>
         <mxCell id="MkgtVJJ61DVTMC1bxCBC-25" value="&lt;div&gt;...&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;BU&lt;div&gt;BUS1&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;...&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="501" y="308" width="55" height="97" as="geometry" />
+          <mxGeometry x="501" y="308" width="55" height="121" as="geometry" />
         </mxCell>
         <mxCell id="MkgtVJJ61DVTMC1bxCBC-26" value="64MB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00fdff;" vertex="1" parent="1">
           <mxGeometry x="92" y="322" width="65" height="32" as="geometry" />
