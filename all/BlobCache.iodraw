@@ -119,7 +119,10 @@
           <mxGeometry x="704" y="327" width="65" height="32" as="geometry" />
         </mxCell>
         <mxCell id="MkgtVJJ61DVTMC1bxCBC-38" value="Blob 16382" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="582" y="361" width="60" height="30" as="geometry" />
+          <mxGeometry x="582" y="361" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MkgtVJJ61DVTMC1bxCBC-39" value="Blob 16382" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="705" y="359" width="65" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
