@@ -283,7 +283,7 @@
             <mxPoint x="529" y="151" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MkgtVJJ61DVTMC1bxCBC-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="MkgtVJJ61DVTMC1bxCBC-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="174" y="256" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
