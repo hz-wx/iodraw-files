@@ -112,8 +112,17 @@
         <mxCell id="MkgtVJJ61DVTMC1bxCBC-35" value="64MB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00fdff;" vertex="1" parent="1">
           <mxGeometry x="575" y="327" width="65" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="MkgtVJJ61DVTMC1bxCBC-36" value="64MB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00fdff;" vertex="1" parent="1">
+          <mxGeometry x="640" y="327" width="65" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="MkgtVJJ61DVTMC1bxCBC-37" value="64MB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00fdff;" vertex="1" parent="1">
+          <mxGeometry x="704" y="327" width="65" height="32" as="geometry" />
+        </mxCell>
         <mxCell id="MkgtVJJ61DVTMC1bxCBC-38" value="Blob Y" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="575" y="360" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MkgtVJJ61DVTMC1bxCBC-39" value="Blob M" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="705" y="359" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MkgtVJJ61DVTMC1bxCBC-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
