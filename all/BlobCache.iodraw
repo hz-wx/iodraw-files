@@ -71,7 +71,7 @@
           <mxGeometry x="717" y="191" width="20" height="59" as="geometry" />
         </mxCell>
         <mxCell id="MkgtVJJ61DVTMC1bxCBC-21" value="Blob layer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="77" y="275" width="214" height="84" as="geometry" />
+          <mxGeometry x="82" y="298" width="214" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
