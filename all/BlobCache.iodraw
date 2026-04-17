@@ -307,6 +307,9 @@
         <mxCell id="MkgtVJJ61DVTMC1bxCBC-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="618" y="158" width="20" height="126" as="geometry" />
         </mxCell>
+        <mxCell id="MkgtVJJ61DVTMC1bxCBC-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="427" y="173" width="20" height="126" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
