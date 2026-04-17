@@ -314,7 +314,7 @@
           <mxGeometry x="717" y="191" width="20" height="59" as="geometry" />
         </mxCell>
         <mxCell id="MkgtVJJ61DVTMC1bxCBC-21" value="Blob layer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="85" y="295" width="193" height="40" as="geometry" />
+          <mxGeometry x="53" y="294" width="229" height="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
