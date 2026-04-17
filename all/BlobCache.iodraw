@@ -247,7 +247,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MkgtVJJ61DVTMC1bxCBC-1" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 18px; font-weight: normal;&quot;&gt;File 1TB&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#A9C4EB;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="MkgtVJJ61DVTMC1bxCBC-1" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 18px; font-weight: normal;&quot;&gt;File 1TB&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#66FFFF;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="80" y="42" width="681" height="52" as="geometry" />
         </mxCell>
       </root>
