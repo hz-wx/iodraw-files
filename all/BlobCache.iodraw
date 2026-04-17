@@ -146,6 +146,28 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MkgtVJJ61DVTMC1bxCBC-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169" y="252" as="sourcePoint" />
+            <mxPoint x="169" y="297" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MkgtVJJ61DVTMC1bxCBC-49" value="Req" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MkgtVJJ61DVTMC1bxCBC-48">
+          <mxGeometry x="-0.2889" y="-1" relative="1" as="geometry">
+            <mxPoint x="3" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MkgtVJJ61DVTMC1bxCBC-50" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="229" y="298" as="sourcePoint" />
+            <mxPoint x="229" y="252" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MkgtVJJ61DVTMC1bxCBC-51" value="Rsp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MkgtVJJ61DVTMC1bxCBC-50">
+          <mxGeometry x="-0.2889" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
