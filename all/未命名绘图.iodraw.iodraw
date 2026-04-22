@@ -70,7 +70,7 @@
         <mxCell id="G4GSmC4cZFW03nYe8pIw-53" value="Region 0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FFFF;" vertex="1" parent="1">
           <mxGeometry x="86" y="350" width="92" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="G4GSmC4cZFW03nYe8pIw-54" value="Region 0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G4GSmC4cZFW03nYe8pIw-54" value="Region 0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="88" y="410" width="92" height="40" as="geometry" />
         </mxCell>
       </root>
