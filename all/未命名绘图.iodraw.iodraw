@@ -74,22 +74,40 @@
           <mxGeometry x="100" y="400" width="92" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G4GSmC4cZFW03nYe8pIw-55" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="100" y="200" width="110" height="260" as="geometry" />
+          <mxGeometry x="268" y="190" width="110" height="260" as="geometry" />
         </mxCell>
         <mxCell id="G4GSmC4cZFW03nYe8pIw-56" value="KV Node 0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" vertex="1" parent="1">
-          <mxGeometry x="110" y="210" width="90" height="30" as="geometry" />
+          <mxGeometry x="278" y="200" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G4GSmC4cZFW03nYe8pIw-57" value="Region 0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;" vertex="1" parent="1">
-          <mxGeometry x="108" y="290" width="92" height="40" as="geometry" />
+          <mxGeometry x="276" y="280" width="92" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G4GSmC4cZFW03nYe8pIw-58" value="Store 0" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="112" y="250" width="80" height="30" as="geometry" />
+          <mxGeometry x="280" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G4GSmC4cZFW03nYe8pIw-59" value="Region 0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="108" y="350" width="92" height="40" as="geometry" />
+          <mxGeometry x="276" y="340" width="92" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G4GSmC4cZFW03nYe8pIw-60" value="Region 0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#009999;" vertex="1" parent="1">
-          <mxGeometry x="110" y="410" width="92" height="40" as="geometry" />
+          <mxGeometry x="278" y="400" width="92" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G4GSmC4cZFW03nYe8pIw-61" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="278" y="200" width="110" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="G4GSmC4cZFW03nYe8pIw-62" value="KV Node 0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" vertex="1" parent="1">
+          <mxGeometry x="288" y="210" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G4GSmC4cZFW03nYe8pIw-63" value="Region 0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="286" y="290" width="92" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G4GSmC4cZFW03nYe8pIw-64" value="Store 0" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G4GSmC4cZFW03nYe8pIw-65" value="Region 0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FFFF;" vertex="1" parent="1">
+          <mxGeometry x="286" y="350" width="92" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G4GSmC4cZFW03nYe8pIw-66" value="Region 0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#009999;" vertex="1" parent="1">
+          <mxGeometry x="288" y="410" width="92" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
