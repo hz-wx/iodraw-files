@@ -113,7 +113,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G4GSmC4cZFW03nYe8pIw-94" value="Rackdb" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="378" y="200" width="70" height="30" as="geometry" />
+          <mxGeometry x="369" y="210" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
