@@ -105,18 +105,6 @@
         <mxCell id="G4GSmC4cZFW03nYe8pIw-89" value="Raft Group" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="300" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G4GSmC4cZFW03nYe8pIw-91" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="388" y="150" as="targetPoint" />
-            <mxPoint x="380" y="270" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="380" y="271" />
-              <mxPoint x="401" y="271" />
-              <mxPoint x="401" y="200" />
-              <mxPoint x="389" y="200" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
