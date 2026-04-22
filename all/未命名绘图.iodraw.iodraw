@@ -67,39 +67,6 @@
             <mxPoint x="159" y="287" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G4GSmC4cZFW03nYe8pIw-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="219" y="288" as="sourcePoint" />
-            <mxPoint x="219" y="242" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G4GSmC4cZFW03nYe8pIw-41" value="Rsp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G4GSmC4cZFW03nYe8pIw-40">
-          <mxGeometry x="-0.2889" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G4GSmC4cZFW03nYe8pIw-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="711" y="283" as="sourcePoint" />
-            <mxPoint x="711" y="237" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G4GSmC4cZFW03nYe8pIw-43" value="Rsp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G4GSmC4cZFW03nYe8pIw-42">
-          <mxGeometry x="-0.2889" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G4GSmC4cZFW03nYe8pIw-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="626" y="237" as="sourcePoint" />
-            <mxPoint x="626" y="282" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G4GSmC4cZFW03nYe8pIw-45" value="Req" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G4GSmC4cZFW03nYe8pIw-44">
-          <mxGeometry x="-0.2889" y="-1" relative="1" as="geometry">
-            <mxPoint x="3" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
