@@ -91,7 +91,7 @@
         <mxCell id="G4GSmC4cZFW03nYe8pIw-80" value="Region 4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="628" y="400" width="92" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="G4GSmC4cZFW03nYe8pIw-85" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="G4GSmC4cZFW03nYe8pIw-85" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" target="G4GSmC4cZFW03nYe8pIw-66">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="369" y="480" as="sourcePoint" />
             <mxPoint x="436" y="610" as="targetPoint" />
