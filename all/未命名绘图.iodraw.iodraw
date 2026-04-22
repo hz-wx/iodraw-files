@@ -76,7 +76,7 @@
         <mxCell id="G4GSmC4cZFW03nYe8pIw-55" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="268" y="190" width="110" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="G4GSmC4cZFW03nYe8pIw-56" value="KV Node 0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" vertex="1" parent="1">
+        <mxCell id="G4GSmC4cZFW03nYe8pIw-56" value="KV Node 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" vertex="1" parent="1">
           <mxGeometry x="278" y="200" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G4GSmC4cZFW03nYe8pIw-57" value="Region 0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;" vertex="1" parent="1">
