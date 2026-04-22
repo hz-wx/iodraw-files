@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G4GSmC4cZFW03nYe8pIw-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="103" y="190" width="110" height="320" as="geometry" />
+          <mxGeometry x="100" y="190" width="110" height="320" as="geometry" />
         </mxCell>
         <mxCell id="G4GSmC4cZFW03nYe8pIw-25" value="KV Node 0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A9C4EB;" vertex="1" parent="1">
           <mxGeometry x="110" y="200" width="90" height="30" as="geometry" />
@@ -95,6 +95,13 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="369" y="480" as="sourcePoint" />
             <mxPoint x="436" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G4GSmC4cZFW03nYe8pIw-87" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="410" y="340" as="sourcePoint" />
+            <mxPoint x="490" y="340" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
