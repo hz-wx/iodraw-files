@@ -49,9 +49,6 @@
         <mxCell id="G4GSmC4cZFW03nYe8pIw-64" value="Store 0" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="472" y="240" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G4GSmC4cZFW03nYe8pIw-65" value="Region 0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="468" y="340" width="92" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="G4GSmC4cZFW03nYe8pIw-66" value="Region 0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#009999;" vertex="1" parent="1">
           <mxGeometry x="470" y="400" width="92" height="40" as="geometry" />
         </mxCell>
@@ -73,7 +70,7 @@
         <mxCell id="G4GSmC4cZFW03nYe8pIw-74" value="Region 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FFFF;" vertex="1" parent="1">
           <mxGeometry x="472" y="280" width="92" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="G4GSmC4cZFW03nYe8pIw-75" value="Region 0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FFFF;" vertex="1" parent="1">
+        <mxCell id="G4GSmC4cZFW03nYe8pIw-75" value="Region 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FFFF;" vertex="1" parent="1">
           <mxGeometry x="644" y="340" width="92" height="40" as="geometry" />
         </mxCell>
       </root>
