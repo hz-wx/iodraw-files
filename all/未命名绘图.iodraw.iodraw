@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="G4GSmC4cZFW03nYe8pIw-1" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 18px; font-weight: normal;&quot;&gt;File 1TB&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#00fdff;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="G4GSmC4cZFW03nYe8pIw-1" value="&lt;font size=&quot;4&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); font-weight: 400;&quot;&gt;Client&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#00fdff;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="80" y="42" width="681" height="52" as="geometry" />
         </mxCell>
         <mxCell id="G4GSmC4cZFW03nYe8pIw-2" value="64MB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00fdff;" vertex="1" parent="1">
