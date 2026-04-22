@@ -105,16 +105,10 @@
         <mxCell id="G4GSmC4cZFW03nYe8pIw-89" value="Raft Group" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="300" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G4GSmC4cZFW03nYe8pIw-90" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.009;exitY=0.594;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="G4GSmC4cZFW03nYe8pIw-91" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="460" as="targetPoint" />
-            <mxPoint x="99.00999999999999" y="384.0399999999999" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="72" y="383.96" />
-              <mxPoint x="72" y="439.96" />
-              <mxPoint x="50" y="439.96" />
-              <mxPoint x="50" y="408.96" />
-            </Array>
+            <mxPoint x="70" y="340" as="targetPoint" />
+            <mxPoint x="122" y="370" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
