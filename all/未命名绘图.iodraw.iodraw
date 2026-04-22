@@ -105,13 +105,15 @@
         <mxCell id="G4GSmC4cZFW03nYe8pIw-89" value="Raft Group" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="300" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G4GSmC4cZFW03nYe8pIw-90" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="G4GSmC4cZFW03nYe8pIw-90" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.009;exitY=0.594;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="G4GSmC4cZFW03nYe8pIw-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="20" y="404.5" as="targetPoint" />
             <mxPoint x="72" y="434.5" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="72" y="435.5" />
-              <mxPoint x="21" y="435.5" />
+              <mxPoint x="72" y="380" />
+              <mxPoint x="72" y="436" />
+              <mxPoint x="50" y="436" />
+              <mxPoint x="50" y="405" />
             </Array>
           </mxGeometry>
         </mxCell>
