@@ -65,7 +65,7 @@
           <mxGeometry x="647" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G4GSmC4cZFW03nYe8pIw-73" value="Region 3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF66FF;" vertex="1" parent="1">
-          <mxGeometry x="99" y="460" width="92" height="40" as="geometry" />
+          <mxGeometry x="100" y="400" width="92" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G4GSmC4cZFW03nYe8pIw-74" value="Region 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FFFF;" vertex="1" parent="1">
           <mxGeometry x="472" y="280" width="92" height="40" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="644" y="340" width="92" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G4GSmC4cZFW03nYe8pIw-76" value="Region 3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF66FF;" vertex="1" parent="1">
-          <mxGeometry x="630" y="400" width="92" height="40" as="geometry" />
+          <mxGeometry x="469" y="400" width="92" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
