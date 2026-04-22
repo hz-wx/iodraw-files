@@ -67,11 +67,6 @@
             <mxPoint x="159" y="287" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G4GSmC4cZFW03nYe8pIw-39" value="Req" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G4GSmC4cZFW03nYe8pIw-38">
-          <mxGeometry x="-0.2889" y="-1" relative="1" as="geometry">
-            <mxPoint x="42" y="-128" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="G4GSmC4cZFW03nYe8pIw-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="219" y="288" as="sourcePoint" />
