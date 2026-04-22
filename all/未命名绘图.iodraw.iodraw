@@ -7,6 +7,9 @@
         <mxCell id="G4GSmC4cZFW03nYe8pIw-1" value="&lt;font size=&quot;4&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); font-weight: 400;&quot;&gt;Client&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#00fdff;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="100" y="42" width="630" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="G4GSmC4cZFW03nYe8pIw-84" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="G4GSmC4cZFW03nYe8pIw-20" target="G4GSmC4cZFW03nYe8pIw-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G4GSmC4cZFW03nYe8pIw-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="100" y="190" width="110" height="320" as="geometry" />
         </mxCell>
@@ -87,13 +90,6 @@
         </mxCell>
         <mxCell id="G4GSmC4cZFW03nYe8pIw-80" value="Region 4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="628" y="400" width="92" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="G4GSmC4cZFW03nYe8pIw-83" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="410" y="230" as="sourcePoint" />
-            <mxPoint x="490" y="230" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
