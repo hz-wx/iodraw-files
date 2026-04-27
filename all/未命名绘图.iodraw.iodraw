@@ -130,10 +130,15 @@
             <mxPoint x="414" y="136.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RCk28PZSTlB-45JlyXz2-33" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;curved=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="RCk28PZSTlB-45JlyXz2-16">
+        <mxCell id="RCk28PZSTlB-45JlyXz2-33" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;curved=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RCk28PZSTlB-45JlyXz2-16" target="RCk28PZSTlB-45JlyXz2-25">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="153" y="371" as="sourcePoint" />
             <mxPoint x="218" y="424" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="177" y="370" />
+              <mxPoint x="275" y="370" />
+              <mxPoint x="275" y="383" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
