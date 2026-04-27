@@ -46,8 +46,8 @@
         <mxCell id="MkgtVJJ61DVTMC1bxCBC-17" value="Blob 16384" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="692" y="160" width="73" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MkgtVJJ61DVTMC1bxCBC-21" value="&lt;div&gt;BU 0&lt;br&gt;&lt;/div&gt;&lt;div&gt;BUS 1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;strokeColor=#36393d;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="82" y="342" width="312" height="84" as="geometry" />
+        <mxCell id="MkgtVJJ61DVTMC1bxCBC-21" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;BU 0&lt;div&gt;BUS 1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;strokeColor=#36393d;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="82" y="306" width="312" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MkgtVJJ61DVTMC1bxCBC-22" value="&lt;div&gt;...&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;BU&lt;div&gt;BUS1&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;...&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;strokeColor=#36393d;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="35" y="644" width="55" height="117" as="geometry" />
@@ -117,10 +117,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N_ilRvx7vV-n4wW7jkFR-4" value="Segment 0&lt;div&gt;RO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00fdff;" vertex="1" parent="1">
-          <mxGeometry x="85" y="366" width="65" height="42" as="geometry" />
+          <mxGeometry x="112" y="321" width="65" height="42" as="geometry" />
         </mxCell>
         <mxCell id="N_ilRvx7vV-n4wW7jkFR-5" value="Segment 1&lt;div&gt;RO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00fdff;" vertex="1" parent="1">
-          <mxGeometry x="334" y="397" width="65" height="44" as="geometry" />
+          <mxGeometry x="204" y="320" width="65" height="44" as="geometry" />
         </mxCell>
         <mxCell id="N_ilRvx7vV-n4wW7jkFR-6" value="Segment 2&lt;div&gt;RW&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00fdff;" vertex="1" parent="1">
           <mxGeometry x="294" y="320" width="65" height="43" as="geometry" />
