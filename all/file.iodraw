@@ -85,7 +85,7 @@
         <mxCell id="MkgtVJJ61DVTMC1bxCBC-39" value="Blob 16382" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="431" y="694" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N_ilRvx7vV-n4wW7jkFR-1" value="Write 1&lt;div&gt;off:0 size: 128K&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00fdff;" vertex="1" parent="1">
+        <mxCell id="N_ilRvx7vV-n4wW7jkFR-1" value="Write 1&lt;div&gt;off:64K size: 64K&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00fdff;" vertex="1" parent="1">
           <mxGeometry x="209" y="180" width="102" height="32" as="geometry" />
         </mxCell>
         <mxCell id="N_ilRvx7vV-n4wW7jkFR-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
