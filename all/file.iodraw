@@ -131,6 +131,9 @@
         <mxCell id="N_ilRvx7vV-n4wW7jkFR-12" value="Index File" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
           <mxGeometry x="94" y="424" width="66" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="N_ilRvx7vV-n4wW7jkFR-13" value="Data File" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
+          <mxGeometry x="174" y="425" width="66" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
