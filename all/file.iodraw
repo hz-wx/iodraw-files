@@ -162,6 +162,9 @@
         <mxCell id="1BKJz5yOmuG_NTEZm-wO-23" value="Blob 16382" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="218" y="360" width="65" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1BKJz5yOmuG_NTEZm-wO-24" value="Blob 0" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="149" y="362" width="65" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
