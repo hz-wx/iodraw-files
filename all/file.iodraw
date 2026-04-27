@@ -8,7 +8,7 @@
           <mxGeometry x="80" y="42" width="681" height="52" as="geometry" />
         </mxCell>
         <mxCell id="MkgtVJJ61DVTMC1bxCBC-2" value="Write 0&lt;div&gt;off:0 size: 128K&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00fdff;" parent="1" vertex="1">
-          <mxGeometry x="56" y="179" width="102" height="32" as="geometry" />
+          <mxGeometry x="78" y="177" width="102" height="32" as="geometry" />
         </mxCell>
         <mxCell id="MkgtVJJ61DVTMC1bxCBC-4" value="Blob 0-64MB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00fdff;" parent="1" vertex="1">
           <mxGeometry x="98" y="117" width="134" height="32" as="geometry" />
