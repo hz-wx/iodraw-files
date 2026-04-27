@@ -117,7 +117,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N_ilRvx7vV-n4wW7jkFR-4" value="Segment 0&lt;div&gt;RO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00fdff;" vertex="1" parent="1">
-          <mxGeometry x="112" y="321" width="65" height="42" as="geometry" />
+          <mxGeometry x="85" y="366" width="65" height="42" as="geometry" />
         </mxCell>
         <mxCell id="N_ilRvx7vV-n4wW7jkFR-5" value="Segment 1&lt;div&gt;RO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00fdff;" vertex="1" parent="1">
           <mxGeometry x="204" y="320" width="65" height="44" as="geometry" />
