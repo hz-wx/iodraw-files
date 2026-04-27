@@ -11,13 +11,13 @@
           <mxGeometry x="78" y="117" width="282" height="32" as="geometry" />
         </mxCell>
         <mxCell id="RCk28PZSTlB-45JlyXz2-3" value="64MB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00fdff;" parent="1" vertex="1">
-          <mxGeometry x="563" y="121" width="65" height="32" as="geometry" />
+          <mxGeometry x="563" y="117" width="65" height="32" as="geometry" />
         </mxCell>
         <mxCell id="RCk28PZSTlB-45JlyXz2-4" value="64MB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00fdff;" parent="1" vertex="1">
-          <mxGeometry x="628" y="121" width="65" height="32" as="geometry" />
+          <mxGeometry x="628" y="117" width="65" height="32" as="geometry" />
         </mxCell>
         <mxCell id="RCk28PZSTlB-45JlyXz2-5" value="64MB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00fdff;" parent="1" vertex="1">
-          <mxGeometry x="692" y="121" width="65" height="32" as="geometry" />
+          <mxGeometry x="692" y="117" width="65" height="32" as="geometry" />
         </mxCell>
         <mxCell id="RCk28PZSTlB-45JlyXz2-6" value="64MB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00fdff;" parent="1" vertex="1">
           <mxGeometry x="431.5" y="117" width="65" height="32" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="221.1" y="36.64" width="20" height="258.76" as="geometry" />
         </mxCell>
         <mxCell id="RCk28PZSTlB-45JlyXz2-10" value="Blob 16382" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="688" y="161" width="73" height="30" as="geometry" />
+          <mxGeometry x="688" y="157" width="73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RCk28PZSTlB-45JlyXz2-11" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&amp;nbsp; &amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;BU 0&lt;div&gt;BUS 0&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;strokeColor=#36393d;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="82" y="306" width="480" height="148" as="geometry" />
