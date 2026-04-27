@@ -40,20 +40,11 @@
         <mxCell id="MkgtVJJ61DVTMC1bxCBC-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="162.5" y="72.52" width="20" height="187" as="geometry" />
         </mxCell>
-        <mxCell id="MkgtVJJ61DVTMC1bxCBC-15" value="Blob N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="396" y="169" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="MkgtVJJ61DVTMC1bxCBC-16" value="Blob 16382" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="559" y="161" width="73" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MkgtVJJ61DVTMC1bxCBC-17" value="Blob 16384" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="692" y="160" width="73" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MkgtVJJ61DVTMC1bxCBC-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="650" y="116" width="20" height="192" as="geometry" />
-        </mxCell>
-        <mxCell id="MkgtVJJ61DVTMC1bxCBC-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="415" y="187" width="20" height="74" as="geometry" />
         </mxCell>
         <mxCell id="MkgtVJJ61DVTMC1bxCBC-21" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;BU 0&lt;div&gt;BUS 1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;strokeColor=#36393d;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="82" y="306" width="208" height="120" as="geometry" />
