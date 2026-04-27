@@ -139,8 +139,8 @@
             <mxPoint x="169" y="267" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N_ilRvx7vV-n4wW7jkFR-22" value="Write 0&lt;div&gt;off:0 size: 128K&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00fdff;" vertex="1" parent="1">
-          <mxGeometry x="66" y="189" width="102" height="32" as="geometry" />
+        <mxCell id="N_ilRvx7vV-n4wW7jkFR-22" value="Read&lt;br&gt;&lt;div&gt;off:0 size: 128K&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00fdff;" vertex="1" parent="1">
+          <mxGeometry x="56" y="231" width="102" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
