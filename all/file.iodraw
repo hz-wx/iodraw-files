@@ -129,10 +129,10 @@
           <mxGeometry x="264" y="375" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N_ilRvx7vV-n4wW7jkFR-8" value="Index File" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00fdff;" vertex="1" parent="1">
-          <mxGeometry x="96" y="413" width="65" height="42" as="geometry" />
+          <mxGeometry x="102" y="410" width="65" height="42" as="geometry" />
         </mxCell>
         <mxCell id="N_ilRvx7vV-n4wW7jkFR-9" value="Data File" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00fdff;" vertex="1" parent="1">
-          <mxGeometry x="188" y="413" width="65" height="42" as="geometry" />
+          <mxGeometry x="186" y="411" width="65" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
