@@ -85,17 +85,6 @@
         <mxCell id="MkgtVJJ61DVTMC1bxCBC-39" value="Blob 16382" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="431" y="694" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MkgtVJJ61DVTMC1bxCBC-40" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="159" y="242" as="sourcePoint" />
-            <mxPoint x="159" y="287" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MkgtVJJ61DVTMC1bxCBC-41" value="Req" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="MkgtVJJ61DVTMC1bxCBC-40" vertex="1" connectable="0">
-          <mxGeometry x="-0.2889" y="-1" relative="1" as="geometry">
-            <mxPoint x="3" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="N_ilRvx7vV-n4wW7jkFR-1" value="Write 1&lt;div&gt;off:0 size: 128K&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00fdff;" vertex="1" parent="1">
           <mxGeometry x="209" y="180" width="102" height="32" as="geometry" />
         </mxCell>
