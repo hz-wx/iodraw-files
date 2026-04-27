@@ -136,7 +136,7 @@
             <mxPoint x="534" y="139" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N_ilRvx7vV-n4wW7jkFR-20" value="Inode LBA Map&lt;div&gt;0-128K Segment 0[DF 128-256K]&lt;/div&gt;&lt;div&gt;64-128K Segment 2[DF 32-64K]&lt;/div&gt;&lt;div&gt;....&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#FFFF33;" vertex="1" parent="1">
+        <mxCell id="N_ilRvx7vV-n4wW7jkFR-20" value="Inode LBA Map&lt;div&gt;0-128K Segment 0[DF 128-256K]&lt;/div&gt;&lt;div&gt;64-128K Segment 2[DF 32-64K]&lt;/div&gt;&lt;div&gt;....&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#FFFF99;" vertex="1" parent="1">
           <mxGeometry x="372" y="341" width="184" height="98" as="geometry" />
         </mxCell>
       </root>
