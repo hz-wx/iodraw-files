@@ -136,8 +136,8 @@
             <mxPoint x="218" y="424" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lHpGZITZuMNOv92atFeD-1" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 18px; font-weight: normal;&quot;&gt;File(Inode) LBA 1TB&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#00fdff;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="80" y="42" width="681" height="52" as="geometry" />
+        <mxCell id="lHpGZITZuMNOv92atFeD-1" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 18px; font-weight: normal;&quot;&gt;File(Inode) LBA 1TB&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#00fdff;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="80" y="42" width="360" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
